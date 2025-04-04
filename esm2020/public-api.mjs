@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of ng-route-logger
+ */
+export * from './lib/ng-route-logger.service';
+export * from './lib/ng-route-logger.component';
+export * from './lib/ng-route-logger.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL25nLXJvdXRlLWxvZ2dlci9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsK0JBQStCLENBQUM7QUFDOUMsY0FBYyxpQ0FBaUMsQ0FBQztBQUNoRCxjQUFjLDhCQUE4QixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBuZy1yb3V0ZS1sb2dnZXJcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9uZy1yb3V0ZS1sb2dnZXIuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9uZy1yb3V0ZS1sb2dnZXIuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL25nLXJvdXRlLWxvZ2dlci5tb2R1bGUnO1xuIl19
