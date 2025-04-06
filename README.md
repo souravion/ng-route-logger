@@ -58,9 +58,7 @@ You can inject the logger service into any component or service like this:
 import { NgRouteLoggerService } from 'ng-route-logger';
 
 constructor(private logger: NgRouteLoggerService) {
-  this.logger.logs$.subscribe(logs => {
-    console.log('Route logs:', logs);
-  });
+  this.logger.getLogs()
 }
 ```
 ## 📚 Example Log Output
